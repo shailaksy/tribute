@@ -1,0 +1,39 @@
+article {
+    display: flex;
+    border: 100px;
+    padding: 100px;
+    align-items: center;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url("/Users/shailakimberlysy/Documents/GitHub/tribute/paint.jpeg");
+}
+
+img {
+    width: 350px;
+    height: auto;
+    border-radius: 50%;
+}
+
+#img-caption {
+    border: 100px;
+    padding: 100px;
+}
+
+h1 {
+    font-size: 4.25em;
+    letter-spacing: -0.025em;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 2.60em;
+    letter-spacing: -0.025em;
+    font-weight: 300;
+    font-style: italic;
+}
+
+p {
+    font-size: 1.50em;
+}
